@@ -13,6 +13,7 @@ This is a website to host our Cupcake Shop! Here you will find a small array of 
 * Elements (p, ul, h) containing [fancy] or [best] classes
     * Style these elements separately in CSS.
 * Adjust position for Lorem Ipsum text to be raised.
+* Make cupcake selections clickable  links to their respective pages.
 
 ## Setup/Installation Requirements
 
