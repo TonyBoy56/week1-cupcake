@@ -34,9 +34,8 @@ N/A
 _Antonio Cruz's email:_
 _codrocks.cruz3@gmail.com_
 
-[INSERT JOSEPH'S CREDS HERE]
-_ _
-_ _
+_Joseph Pearce_
+
 ## Technologies Used
 
 * _Markdown_
